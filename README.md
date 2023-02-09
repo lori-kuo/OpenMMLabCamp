@@ -1,5 +1,11 @@
 # OpenMMLabWinterCamp
-## HomeWork1
-including basic & advanced parts
 ## HomeWork2
-![image](./HomeWork2/basic/output.gif)
+
+![image](./hw2/basic/output.gif)
+
+
+
+模型地址：
+
+链接：https://pan.baidu.com/s/1aqIuZKgzENmEkTdo_jTCBw 
+提取码：hnus
