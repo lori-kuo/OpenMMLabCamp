@@ -1,4 +1,4 @@
-# OpenMMLabWinterCamp
+# OpenMMLabCamp
 ## HomeWork2
 
 模型日志路径 ./hw2/basic/
